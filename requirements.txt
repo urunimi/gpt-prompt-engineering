@@ -1,0 +1,5 @@
+bokeh==2.4.3
+jupyter-bokeh==2.0.4
+openai==0.27.6
+pandas==2.0.1
+python-dotenv==1.0.0
